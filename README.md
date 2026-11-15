@@ -101,7 +101,7 @@ This is a starting list, not a complete review.
 ## Data and licenses
 
 - Pythia models: Apache 2.0, EleutherAI.
-- CounterFact: from the [ROME project](https://github.com/kmeng01/rome) (MIT license). The dataset is downloaded at run time from its original source and is not redistributed in this repository.
+- CounterFact: from the [ROME project](https://github.com/kmeng01/rome) (MIT license). The notebook downloads the dataset from its original source at run time. The raw file is not stored here, but the result tables in `results/pythia-160m/` (`exam.csv`, `facts.csv`) include its prompts and answers next to the model's scores.
 - Code in this repository: MIT.
 
 ## AI assistance
