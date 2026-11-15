@@ -1,0 +1,493 @@
+case_id,relation,prompt,answer,first_id,correct,confidence,margin,age_first,age_stable,times_lost,resistance,levels_survived,confidence_group,cohort,matched_half
+109,P17,Shablykinsky District is located in the country of, Russia,7422,True,0.064301655,0.1338501,96000,128000,1,0.39,1.4,0,late,late
+212,P159,Princeton University Press's headquarters are in, Princeton,25853,True,0.26212612,0.51257324,48000,48000,0,0.36,3.1,3,late,late
+225,P178,Microsoft Visual Studio was a product of, Microsoft,9664,True,0.46552345,1.0983276,8000,8000,0,0.87,8.4,4,early,early
+239,P17,Nizampatnam is located in the country of, India,5427,True,0.04921041,0.052978516,128000,128000,0,0.33,2.3,0,late,late
+253,P103,Julien Courbet is a native speaker of, French,5112,True,0.4611502,1.1610718,8000,96000,2,0.62,6.2,4,early,early
+335,P178,"Google Drive, created by", Google,5559,True,0.10087946,0.4956665,32000,128000,2,0.85,8.3,0,middle,late
+380,P17,Darmstadt is located in the country of, Germany,6176,True,0.1458681,0.47753906,64000,112000,1,0.55,4.6,1,late,late
+397,P30,Romulus Glacier belongs to the continent of, Antarctica,31913,True,0.21794364,0.9072876,96000,96000,0,0.39,3.3,2,late,late
+446,P30,Alpha Island belongs to the continent of, Antarctica,31913,True,0.06812031,0.58935547,128000,128000,0,0.46,4.4,0,late,late
+576,P176,"Nokia N70, produced by", Nokia,41720,True,0.1129271,0.2694702,8000,64000,1,0.25,1.4,1,early,early
+659,P30,Bailey Peninsula (Antarctica) belongs to the continent of, Antarctica,31913,True,0.49057,1.8334961,64000,112000,1,0.77,7.4,4,late,late
+665,P27,"Kenta Fukasaku, who holds a citizenship from", Japan,4047,True,0.30815312,0.368042,96000,128000,1,0.36,3.1,3,late,late
+667,P30,North Brabant belongs to the continent of, Europe,3060,True,0.22671044,0.019836426,48000,143000,2,0.23,2.0,2,late,late
+672,P30,Mount Karisimbi belongs to the continent of, Africa,7531,True,0.08695276,0.48901367,143000,143000,0,0.37,3.6,0,late,late
+713,P176,"Nintendo DS Lite, created by", Nintendo,26862,True,0.093706235,0.0635376,4000,143000,2,0.23,1.4,0,early,early
+715,P176,Nokia N85 is developed by, Nokia,41720,True,0.10853375,0.40637207,32000,64000,1,0.37,3.4,0,middle,early
+726,P159,Crystal Palace Baltimore is headquartered in, Baltimore,19585,True,0.25681323,0.13061523,8000,96000,1,0.21,1.2,3,early,early
+756,P176,"Nintendo Entertainment System, produced by", Nintendo,26862,True,0.10580821,0.5149536,4000,4000,0,0.51,4.6,0,early,early
+846,P103,Jean Giraudoux is a native speaker of, French,5112,True,0.6044317,2.3722534,8000,8000,0,0.78,7.8,4,early,early
+866,P937,Vincent van Gogh worked in the city of, Amsterdam,26653,True,0.05429469,0.3036499,128000,128000,0,0.47,4.2,0,late,late
+920,P178,"Microsoft Office Mobile, created by", Microsoft,9664,True,0.16673508,0.6375122,32000,112000,1,0.77,5.0,1,middle,early
+931,P17,Kyoto University is located in the country of, Japan,4047,True,0.12123261,0.7296753,8000,8000,0,0.62,5.5,1,early,early
+937,P178,"Windows XP, a product manufactured by", Microsoft,9664,True,0.28950548,1.4520874,32000,128000,3,0.75,7.3,3,middle,late
+944,P176,"Nokia X family, produced by", Nokia,41720,True,0.092232145,0.13330078,8000,64000,1,0.22,1.1,0,early,early
+950,P937,"Donald Kaberry, Baron Kaberry of Adel worked in the city of", London,4693,True,0.07355845,1.1062012,48000,128000,1,0.74,6.9,0,late,late
+1059,P178,"Windows NT 3.1, developed by", Microsoft,9664,True,0.15751004,0.7650757,64000,64000,0,0.72,6.5,1,late,late
+1081,P30,Eureka Glacier is a part of the continent of, Antarctica,31913,True,0.30504966,1.074646,32000,32000,0,0.64,6.4,3,middle,late
+1127,P178,"Intel 80386, created by", Intel,17545,True,0.19558413,0.8052368,32000,128000,2,0.5,4.6,2,middle,late
+1137,P103,Jean-Baptiste Henri Lacordaire is a native speaker of, French,5112,True,0.61075157,2.1969604,8000,32000,1,0.79,7.8,4,early,early
+1244,P178,"Microsoft Office XP, a product developed by", Microsoft,9664,True,0.60557014,2.416565,4000,16000,1,0.96,9.6,4,early,early
+1399,P30,Namibia is a part of the continent of, Africa,7531,True,0.5899836,2.270935,4000,48000,1,0.62,6.1,4,early,early
+1423,P20,Patrick Colquhoun died in the city of, London,4693,True,0.03866656,0.3885498,8000,112000,1,0.5,3.9,0,early,early
+1482,P937,Alexandre de Beauharnais worked in the city of, Paris,7785,True,0.11941759,1.4752197,4000,4000,0,0.8,7.9,1,early,early
+1576,P103,Vladimir Bukovsky is a native speaker of, Russian,7247,True,0.45374417,1.4140625,16000,64000,1,0.61,6.0,4,early,late
+1614,P937,Johann Friedrich Reichardt worked in the city of, Berlin,12911,True,0.052651644,0.34857178,8000,128000,2,0.57,5.3,0,early,early
+1623,P176,Super Nintendo Entertainment System is produced by, Nintendo,26862,True,0.1032717,0.35784912,4000,143000,3,0.28,2.2,0,early,early
+1689,P27,"Yasuyuki Kase, a citizen of", Japan,4047,True,0.1766721,0.10284424,16000,128000,2,0.14,1.1,2,early,early
+1719,P178,"Adobe Encore, developed by", Adobe,33143,True,0.101066574,0.56140137,16000,143000,2,0.34,3.0,0,early,early
+1794,P19,Hiroshi Takemura was born in, Tokyo,17413,True,0.052377097,0.34057617,16000,16000,0,0.27,2.6,0,early,early
+1803,P159,TU Wien is headquartered in, Vienna,26229,True,0.20280324,0.40924072,32000,143000,1,0.48,3.7,2,middle,late
+1861,P178,Windows RT is developed by, Microsoft,9664,True,0.121952966,0.051330566,64000,143000,1,0.39,1.5,1,late,late
+1863,P20,Jean Guillaume Moitte died in the city of, Paris,7785,True,0.06766334,0.73254395,4000,96000,2,0.69,6.2,0,early,early
+1892,P103,Emmanuel Macron is a native speaker of, French,5112,True,0.36717385,1.2850342,32000,96000,1,0.47,4.7,3,middle,late
+1929,P178,"Apple Thunderbolt Display, a product manufactured by", Apple,8217,True,0.07855126,0.2984619,8000,96000,2,0.64,5.3,0,early,early
+1951,P30,Merrick Mountains belongs to the continent of, Antarctica,31913,True,0.13148639,0.49243164,96000,128000,1,0.37,3.0,1,late,late
+2042,P178,"Google Contacts, a product manufactured by", Google,5559,True,0.15802556,0.7758179,16000,96000,2,0.71,6.6,1,early,early
+2086,P103,Isabelle Autissier is a native speaker of, French,5112,True,0.48291105,1.5211182,8000,32000,1,0.61,6.0,4,early,early
+2089,P103,Xavier Beauvois is a native speaker of, French,5112,True,0.45621154,1.7805176,16000,16000,0,0.73,7.3,4,early,late
+2095,P937,Cedric Drewe worked in the city of, London,4693,True,0.050021973,0.69781494,112000,112000,0,0.58,5.7,0,late,late
+2097,P17,Lower Assam is located in the country of, India,5427,True,0.12448258,0.979126,80000,80000,0,0.66,6.0,1,late,late
+2242,P937,"Christopher Tugendhat, Baron Tugendhat worked in the city of", London,4693,True,0.1059958,1.2416382,16000,96000,1,0.82,7.9,0,early,early
+2335,P103,Mathieu de Montmorency is a native speaker of, French,5112,True,0.5058309,1.6222534,8000,32000,1,0.68,6.8,4,early,early
+2363,P127,Google Ads is owned by, Google,5559,True,0.18689226,0.62475586,32000,32000,0,0.71,6.1,2,middle,early
+2428,P103,Jean-Sifrein Maury is a native speaker of, French,5112,True,0.449147,1.8372803,32000,32000,0,0.74,7.2,4,middle,late
+2462,P178,"Windows NT 3.51, a product manufactured by", Microsoft,9664,True,0.07975806,0.08831787,16000,128000,3,0.44,1.6,0,early,early
+2536,P178,Adobe Creative Cloud was developed by, Adobe,33143,True,0.18193118,1.2296753,16000,143000,1,0.5,4.8,2,early,early
+2541,P20,Paulus Manutius died in the city of, Rome,12300,True,0.05762431,0.9971924,8000,8000,0,0.81,8.1,0,early,early
+2544,P30,Turgai River belongs to the continent of, Asia,10497,True,0.08698842,0.16052246,8000,143000,2,0.3,2.3,0,early,early
+2576,P178,"Apple A6, a product created by", Apple,8217,True,0.13042396,0.118652344,4000,143000,1,0.31,2.4,1,early,early
+2585,P103,Jacques Doriot is a native speaker of, French,5112,True,0.48241416,1.5539551,8000,32000,1,0.77,7.7,4,early,early
+2651,P27,"Masahiko Nishimura, a citizen of", Japan,4047,True,0.24204288,0.3867798,16000,128000,2,0.42,3.7,2,early,early
+2660,P127,Google Person Finder is owned by, Google,5559,True,0.21934329,0.6828613,32000,128000,2,0.79,6.8,2,middle,late
+2752,P159,Ottawa Sun is based in, Ottawa,29539,True,0.41155726,1.6428223,4000,128000,2,0.7,6.9,4,early,early
+2825,P30,United Kingdom of the Netherlands is a part of the continent of, Europe,3060,True,0.516161,1.6885376,16000,48000,1,0.75,7.3,4,early,late
+2841,P937,Paul Gauguin worked in the city of, Paris,7785,True,0.24997139,1.822937,32000,128000,2,0.64,6.1,3,middle,late
+2875,P176,"Nokia N9, developed by", Nokia,41720,True,0.111949116,0.49438477,8000,64000,2,0.46,4.1,1,early,early
+2891,P30,Condor Peninsula belongs to the continent of, Antarctica,31913,True,0.14981277,0.06341553,96000,143000,1,0.29,1.1,1,late,late
+2967,P178,Windows Virtual PC was developed by, Microsoft,9664,True,0.11592293,0.36413574,64000,143000,2,0.57,4.0,1,late,late
+2977,P30,Iskar Glacier is a part of the continent of, Antarctica,31913,True,0.29258525,1.572998,64000,96000,1,0.68,6.8,3,late,late
+3045,P30,Emmanuel Glacier belongs to the continent of, Antarctica,31913,True,0.34280622,1.1642456,96000,96000,0,0.52,5.1,3,late,late
+3054,P176,"Nokia Lumia 1520, developed by", Nokia,41720,True,0.11940497,0.13739014,8000,8000,0,0.45,3.4,1,early,early
+3057,P937,"Robert Grosvenor, 1st Baron Ebury worked in the city of", London,4693,True,0.25046116,2.1569824,4000,4000,0,0.95,9.5,3,early,early
+3093,P937,Pierre-Jean Mariette worked in the city of, Paris,7785,True,0.14218712,1.4914551,4000,4000,0,0.85,8.3,1,early,early
+3099,P178,Microsoft Dynamics was developed by, Microsoft,9664,True,0.17989987,1.4866333,32000,32000,0,0.92,9.2,2,middle,early
+3162,P30,Tajikistan belongs to the continent of, Asia,10497,True,0.17001736,0.62683105,4000,143000,3,0.37,2.8,1,early,early
+3170,P30,Gambia River is a part of the continent of, Africa,7531,True,0.7026765,2.2095337,4000,48000,1,0.66,6.6,4,early,early
+3191,P178,Intel Pentium Dual-Core was created by, Intel,17545,True,0.1775511,0.41046143,64000,128000,1,0.41,3.5,2,late,late
+3268,P159,"Norwegian News Agency, whose headquarters are in", Oslo,43516,True,0.13158908,0.8699951,8000,128000,1,0.68,5.6,1,early,early
+3307,P30,Austria-Hungary is a part of the continent of, Europe,3060,True,0.6670569,1.9179077,8000,8000,0,0.71,7.0,4,early,early
+3354,P178,"Nintendo 3DS, a product developed by", Nintendo,26862,True,0.18302701,0.3770752,4000,143000,2,0.49,4.2,2,early,early
+3392,P30,Armenia belongs to the continent of, Europe,3060,True,0.22068669,0.81591797,48000,143000,2,0.45,4.2,2,late,late
+3405,P103,Eduard Uspensky is a native speaker of, Russian,7247,True,0.20130044,0.5475464,8000,96000,1,0.37,3.4,2,early,early
+3426,P27,"Shigeaki Ikeda, a citizen of", Japan,4047,True,0.24101384,0.28625488,16000,96000,1,0.3,2.8,2,early,early
+3432,P103,Leo Tolstoy is a native speaker of, Russian,7247,True,0.22482665,0.53027344,112000,112000,0,0.38,3.7,2,late,late
+3452,P159,Boston and Maine Corporation is headquartered in, Boston,9693,True,0.18057157,0.8922119,8000,8000,0,0.79,6.7,2,early,early
+3502,P20,Giovanni di Bicci de' Medici died in the city of, Florence,27741,True,0.13462456,0.6723633,8000,143000,3,0.42,3.6,1,early,early
+3516,P20,Josep Tarradellas i Joan died in the city of, Barcelona,24639,True,0.046066687,0.17797852,4000,80000,1,0.3,3.0,0,early,early
+3529,P30,Hood Glacier belongs to the continent of, Antarctica,31913,True,0.17390908,0.50567627,96000,128000,1,0.46,4.3,1,late,late
+3538,P937,Pierre Marie Auguste Broussonet worked in the city of, Paris,7785,True,0.12836182,1.7119751,2000,2000,0,0.88,8.8,1,early,early
+3561,P140,Muslim follows the religion of, Islam,8033,True,0.2460067,0.30895996,16000,16000,0,0.71,5.1,2,early,early
+3575,P103,Vasily Kamensky is a native speaker of, Russian,7247,True,0.29256636,1.1328735,16000,112000,1,0.48,4.2,3,early,early
+3587,P178,"Windows Live Messenger, a product created by", Microsoft,9664,True,0.19072592,0.48046875,32000,143000,2,0.78,6.5,2,middle,late
+3645,P103,Dmitry Medvedev is a native speaker of, Russian,7247,True,0.64327997,2.2382202,16000,64000,1,0.71,6.9,4,early,late
+3652,P30,Wallonia is a part of the continent of, Europe,3060,True,0.13308892,0.48168945,48000,143000,2,0.41,3.8,1,late,late
+3747,P30,Gordon Glacier belongs to the continent of, Antarctica,31913,True,0.24461958,1.2409668,32000,96000,2,0.48,4.5,2,middle,late
+3804,P30,Viking Age belongs to the continent of, Europe,3060,True,0.18850861,0.14746094,32000,143000,1,0.36,3.0,2,middle,late
+3845,P178,"iGoogle, a product developed by", Google,5559,True,0.5519398,1.7323608,8000,8000,0,0.87,8.7,4,early,early
+3983,P103,Anne Fontaine is a native speaker of, French,5112,True,0.36496535,0.85601807,48000,96000,1,0.55,5.2,3,late,late
+4054,P103,Sergey Platonov is a native speaker of, Russian,7247,True,0.42193434,1.3984985,8000,32000,1,0.67,6.6,4,early,early
+4170,P178,Microsoft Project was developed by, Microsoft,9664,True,0.12681578,0.5213623,64000,128000,1,0.73,6.6,1,late,late
+4181,P30,Catalonia is a part of the continent of, Europe,3060,True,0.27006468,0.03692627,16000,143000,3,0.39,2.7,3,early,early
+4397,P17,Higashikagawa is located in the country of, Japan,4047,True,0.14138089,1.3265991,48000,143000,2,0.68,6.0,1,late,late
+4404,P17,Mirbag-e Shomali Rural District is located in the country of, Iran,7751,True,0.08349161,0.13336182,128000,128000,0,0.42,3.2,0,late,late
+4413,P30,Hull Glacier is a part of the continent of, Antarctica,31913,True,0.30637145,1.7113037,16000,64000,1,0.63,6.1,3,early,early
+4442,P30,Berwick Glacier belongs to the continent of, Antarctica,31913,True,0.26183286,0.8432007,32000,96000,2,0.49,4.2,3,middle,late
+4499,P176,"Nokia E72, developed by", Nokia,41720,True,0.105168276,0.67803955,32000,96000,2,0.4,3.7,0,middle,late
+4619,P937,Gyles Brandreth worked in the city of, London,4693,True,0.04152979,0.2617798,112000,112000,0,0.51,4.3,0,late,late
+4620,P37,"In Czech Republic, an official language is", Czech,21647,True,0.07774938,0.0423584,48000,128000,2,0.19,0.9,0,late,late
+4643,P27,"Sukhdev Thapar, a citizen of", India,5427,True,0.13858873,0.09814453,128000,128000,0,0.38,2.3,1,late,late
+4656,P103,Marcel Mouloudji is a native speaker of, French,5112,True,0.25121254,1.0463867,32000,32000,0,0.56,5.1,3,middle,late
+4661,P30,Germany is a part of the continent of, Europe,3060,True,0.5481394,2.2710571,4000,48000,1,0.78,7.8,4,early,early
+4680,P178,"Microsoft Surface, developed by", Microsoft,9664,True,0.18551503,1.3884888,16000,16000,0,0.93,9.0,2,early,early
+4728,P27,"Kinji Fukasaku, who has a citizenship from", Japan,4047,True,0.39796332,1.0458984,32000,96000,1,0.51,4.6,4,middle,late
+4730,P30,Wilson Piedmont Glacier is a part of the continent of, Antarctica,31913,True,0.2929841,1.199585,32000,96000,1,0.52,4.9,3,middle,late
+4791,P20,"Sir William Dunn, 1st Baronet, of Lakenheath died in the city of", London,4693,True,0.16028605,0.23913574,128000,128000,0,0.79,6.1,1,late,late
+4814,P20,Jules de Polignac died in the city of, Paris,7785,True,0.04975487,0.7005005,8000,96000,1,0.63,6.0,0,early,early
+4858,P178,"Microsoft Expression Blend, a product created by", Microsoft,9664,True,0.292027,1.4658203,8000,64000,2,0.92,8.9,3,early,early
+4939,P30,Northeast Glacier belongs to the continent of, Antarctica,31913,True,0.1436007,0.39978027,96000,143000,1,0.33,2.5,1,late,late
+5098,P27,"Sakichi Toyoda, a citizen of", Japan,4047,True,0.3439827,0.7345581,16000,128000,2,0.49,4.2,3,early,early
+5163,P178,"Microsoft Silverlight, a product manufactured by", Microsoft,9664,True,0.2481908,1.8674316,16000,16000,0,0.89,8.6,2,early,early
+5219,P937,Paulus Manutius worked in the city of, Rome,12300,True,0.08742101,1.4991455,8000,8000,0,0.8,8.0,0,early,early
+5281,P103,Louis-Jean-Marie Daubenton is a native speaker of, French,5112,True,0.5585471,2.182373,8000,8000,0,0.82,8.1,4,early,late
+5300,P176,Sony SLT camera is developed by, Sony,22645,True,0.19004907,0.5977173,32000,64000,1,0.44,4.1,2,middle,late
+5374,P937,Ernst Ludwig von Gerlach worked in the city of, Berlin,12911,True,0.05215013,0.27416992,32000,143000,3,0.35,3.2,0,middle,late
+5434,P30,Beaglehole Glacier is a part of the continent of, Antarctica,31913,True,0.33165637,1.3514404,16000,16000,0,0.68,6.8,3,early,early
+5458,P20,Astley Cooper died in the city of, London,4693,True,0.12667027,1.3143921,16000,96000,2,0.66,6.5,1,early,early
+5480,P495,Scotland Today was created in the country of, Scotland,13944,True,0.16133931,0.61053467,16000,128000,1,0.56,5.3,1,early,early
+5500,P30,Benin belongs to the continent of, Africa,7531,True,0.28154647,1.5423584,4000,96000,2,0.54,5.4,3,early,early
+5529,P30,Atbarah River belongs to the continent of, Africa,7531,True,0.16260037,1.109375,16000,143000,2,0.47,4.7,1,early,early
+5530,P103,Pedro de la Rosa is a native speaker of, Spanish,9883,True,0.35468152,0.54071045,32000,32000,0,0.67,6.6,3,middle,late
+5574,P159,"Danish Film Institute, whose headquarters are in", Copenhagen,40892,True,0.12201055,0.23297119,48000,143000,1,0.39,2.8,1,late,late
+5583,P30,Mozambique is a part of the continent of, Africa,7531,True,0.687126,2.2122192,4000,48000,1,0.68,6.8,4,early,early
+5613,P103,Aleksey Khomyakov is a native speaker of, Russian,7247,True,0.49703214,1.845459,32000,80000,1,0.8,7.9,4,middle,late
+5662,P103,Laurent Casanova is a native speaker of, French,5112,True,0.2326976,0.548645,8000,143000,1,0.42,3.6,2,early,early
+5779,P17,Kyōto Prefecture is located in the country of, Japan,4047,True,0.636274,3.3067017,112000,112000,0,0.77,7.6,4,late,late
+5845,P30,Fredriksen Island belongs to the continent of, Antarctica,31913,True,0.20068072,0.9049072,96000,96000,0,0.48,4.8,2,late,late
+5851,P103,Bertrand Russell is a native speaker of, English,4383,True,0.23142989,0.31854248,32000,32000,0,0.65,6.5,2,middle,late
+5914,P30,Schytt Glacier is a part of the continent of, Antarctica,31913,True,0.20631115,0.5496826,32000,96000,1,0.4,3.4,2,middle,early
+5973,P30,Contell Glacier is a part of the continent of, Antarctica,31913,True,0.42565387,1.9558716,16000,96000,1,0.65,6.4,4,early,late
+6029,P20,Giovanni Battista Sammartini died in the city of, Milan,27850,True,0.067918845,0.38238525,4000,128000,3,0.56,5.2,0,early,early
+6059,P178,"Intel Quark, created by", Intel,17545,True,0.11623073,0.2548828,143000,143000,0,0.33,2.7,1,late,late
+6069,P641,Russell Wilson is a professional, football,5842,True,0.06305711,0.586792,4000,112000,1,0.47,4.5,0,early,early
+6122,P30,Panega Glacier belongs to the continent of, Antarctica,31913,True,0.18977587,0.44403076,48000,112000,1,0.49,4.1,2,late,late
+6133,P27,"Etsushi Toyokawa, who is a citizen of", Japan,4047,True,0.42150775,0.6390381,16000,128000,2,0.5,4.4,4,early,late
+6220,P103,Augustin Barruel is a native speaker of, French,5112,True,0.19813025,0.76690674,32000,96000,1,0.5,4.8,2,middle,late
+6308,P103,Marie-Arlette Carlotti is a native speaker of, French,5112,True,0.17933623,0.69525146,80000,80000,0,0.36,3.3,2,late,late
+6374,P159,European Business School Paris is headquartered in, Paris,7785,True,0.4831239,1.4169922,4000,4000,0,0.61,6.1,4,early,early
+6439,P17,Federal Palace of Switzerland is located in the country of, Switzerland,18908,True,0.45257276,2.1591187,32000,64000,1,0.84,8.4,4,middle,late
+6449,P103,Mathieu Amalric is a native speaker of, French,5112,True,0.534884,2.0803223,32000,32000,0,0.71,7.1,4,middle,late
+6539,P641,Nelson Valdez is a professional, soccer,20391,True,0.07380031,0.70965576,48000,112000,1,0.52,4.7,0,late,late
+6645,P103,Vladimir Mayakovsky is a native speaker of, Russian,7247,True,0.49276266,1.5980225,8000,8000,0,0.71,7.1,4,early,early
+6659,P159,Bristol & West is headquartered in, Bristol,29912,True,0.48715097,1.895874,4000,32000,1,0.74,7.1,4,early,early
+6726,P176,"Nokia N810, developed by", Nokia,41720,True,0.13784224,0.78234863,8000,64000,2,0.47,4.5,1,early,early
+6778,P178,Adobe Photoshop is created by, Adobe,33143,True,0.26225394,1.1826172,8000,128000,1,0.58,5.1,3,early,early
+6852,P276,Detroit Windsor International Film Festival is located in, Detroit,17372,True,0.24653006,0.2432251,32000,143000,1,0.13,0.9,2,middle,late
+6867,P27,"Arihito Muramatsu, who holds a citizenship from", Japan,4047,True,0.21600203,0.09259033,128000,128000,0,0.22,1.4,2,late,late
+6887,P159,Athens Football Clubs Association is based in, Athens,27411,True,0.38118842,1.1977539,8000,8000,0,0.51,4.7,4,early,early
+6902,P178,Adobe InDesign was developed by, Adobe,33143,True,0.094960876,0.6126709,64000,143000,1,0.33,2.6,0,late,late
+6919,P30,Volga Bulgaria belongs to the continent of, Europe,3060,True,0.28017104,0.41149902,32000,143000,1,0.45,4.1,3,middle,late
+6931,P103,Aagje Deken is a native speaker of, Dutch,13986,True,0.09618388,0.040222168,80000,143000,1,0.11,0.5,0,late,late
+6936,P176,"Sony E-mount, developed by", Sony,22645,True,0.1480416,0.5338135,32000,64000,1,0.32,3.0,1,middle,late
+6999,P30,Harsewinkel is a part of the continent of, Europe,3060,True,0.10611028,0.69989014,4000,112000,2,0.41,3.2,0,early,early
+7159,P30,Daugava River belongs to the continent of, Europe,3060,True,0.14502792,0.7923584,48000,143000,3,0.46,4.2,1,late,late
+7203,P178,"Nokia Lumia 2520, a product of", Nokia,41720,True,0.22609445,0.0657959,32000,64000,1,0.25,1.3,2,middle,late
+7275,P103,Joseph Brodsky is a native speaker of, Russian,7247,True,0.14278701,0.051574707,143000,143000,0,0.14,1.2,1,late,late
+7280,P30,Hansen Glacier is a part of the continent of, Antarctica,31913,True,0.36921245,1.704895,16000,16000,0,0.61,6.0,3,early,early
+7293,P178,Google Glass is developed by, Google,5559,True,0.14130387,0.27990723,32000,128000,3,0.68,5.7,1,middle,early
+7300,P641,Ernie Davis is a professional, football,5842,True,0.04572578,0.2798462,8000,143000,3,0.3,2.8,0,early,early
+7363,P30,Duchy of Brabant belongs to the continent of, Europe,3060,True,0.5912813,1.3513184,32000,32000,0,0.67,6.2,4,middle,late
+7398,P17,Colegio Nacional de Buenos Aires is located in the country of, Argentina,23881,True,0.59603804,2.1880493,8000,80000,2,0.79,7.6,4,early,early
+7403,P103,Claude Simon is a native speaker of, French,5112,True,0.2101794,0.48077393,96000,143000,1,0.37,3.7,2,late,late
+7495,P30,Venus Glacier belongs to the continent of, Antarctica,31913,True,0.19645268,0.88201904,64000,96000,1,0.63,5.7,2,late,late
+7567,P17,ABC Futebol Clube is located in the country of, Brazil,10869,True,0.111284405,0.1459961,8000,143000,1,0.49,2.8,0,early,early
+7607,P30,Chad Basin belongs to the continent of, Africa,7531,True,0.32284087,0.6478882,16000,143000,2,0.41,4.1,3,early,early
+7624,P17,Palladam is located in the country of, India,5427,True,0.1580837,0.6588745,96000,96000,0,0.57,5.2,1,late,late
+7661,P178,"Google Web Toolkit, developed by", Google,5559,True,0.15166867,0.37976074,32000,128000,3,0.67,5.7,1,middle,early
+7695,P641,LeBron James is a professional, basketball,14648,True,0.17855015,1.0603638,2000,8000,1,0.64,5.8,2,early,early
+7827,P176,Nokia 5800 XpressMusic is developed by, Nokia,41720,True,0.08079404,0.05340576,8000,128000,3,0.23,0.9,0,early,early
+7953,P17,"Minamishitara District, Aichi is located in the country of", Japan,4047,True,0.19700646,1.5358887,16000,143000,3,0.63,5.8,2,early,early
+8008,P103,Mario Vargas Llosa is a native speaker of, Spanish,9883,True,0.62825716,2.4159546,16000,16000,0,0.72,7.1,4,early,late
+8044,P103,Pierre-Alexandre-Laurent Forfait is a native speaker of, French,5112,True,0.5765423,1.9169922,8000,32000,1,0.74,7.3,4,early,early
+8078,P178,"Intel 80286, a product developed by", Intel,17545,True,0.4962169,1.4007568,32000,64000,1,0.61,5.8,4,middle,late
+8127,P176,"Nokia Lumia 710, developed by", Nokia,41720,True,0.11450874,0.049804688,8000,8000,0,0.42,2.4,1,early,early
+8139,P178,Microsoft Office Live was developed by, Microsoft,9664,True,0.28008413,1.3163452,32000,64000,1,0.9,8.3,3,middle,late
+8164,P30,Ardery Island is a part of the continent of, Antarctica,31913,True,0.1709345,0.8319702,16000,128000,2,0.48,4.3,1,early,early
+8185,P103,Fernand Ledoux is a native speaker of, French,5112,True,0.4637777,1.8878174,16000,16000,0,0.7,7.0,4,early,late
+8196,P30,United Kingdom of Great Britain and Ireland belongs to the continent of, Europe,3060,True,0.3920077,1.3876953,4000,143000,3,0.65,6.2,4,early,early
+8306,P127,Google Image Labeler is owned by, Google,5559,True,0.14338821,0.46850586,16000,96000,2,0.8,6.9,1,early,early
+8423,P178,"Microsoft Internet Explorer 6, a product created by", Microsoft,9664,True,0.3533933,1.3599243,4000,4000,0,0.91,9.0,3,early,early
+8466,P131,"Copenhagen Business School, in", Copenhagen,40892,True,0.30632892,0.64837646,8000,48000,1,0.48,4.7,3,early,early
+8485,P178,"Microsoft Macro Assembler, a product of", Microsoft,9664,True,0.26018745,0.021850586,48000,143000,1,0.28,0.9,3,late,late
+8502,P276,Singapore International Film Festival is in, Singapore,16861,True,0.19071266,0.5593262,4000,128000,2,0.45,4.3,2,early,early
+8528,P937,Louis Blanc worked in the city of, Paris,7785,True,0.10338723,0.36395264,8000,128000,2,0.57,4.5,0,early,early
+8623,P159,"Royal Numismatic Society, whose headquarters are in", London,4693,True,0.17730808,0.9536743,80000,80000,0,0.64,6.1,2,late,late
+8796,P17,Nishi-Matsuura District is located in the country of, Japan,4047,True,0.12729141,1.1566162,16000,112000,1,0.69,5.9,1,early,early
+8872,P407,Berliner Zeitung is written in, German,5685,True,0.25958362,0.7885132,8000,48000,1,0.45,4.3,3,early,early
+8875,P641,Walter Zenga is a professional, soccer,20391,True,0.040045444,0.066711426,64000,128000,1,0.22,1.9,0,late,late
+8879,P178,"Adobe Photoshop Elements, a product of", Adobe,33143,True,0.48869637,1.2364502,16000,16000,0,0.45,4.4,4,early,late
+8901,P178,"Windows Server 2008 R2, a product developed by", Microsoft,9664,True,0.15821472,0.41796875,8000,112000,2,0.76,6.2,1,early,early
+8921,P178,"Windows Internet Explorer 9, developed by", Microsoft,9664,True,0.13365975,0.3427124,16000,143000,1,0.59,4.1,1,early,early
+8953,P30,Butler Glacier belongs to the continent of, Antarctica,31913,True,0.29125047,1.3626709,96000,96000,0,0.56,5.6,3,late,late
+8972,P176,"Nokia N8, developed by", Nokia,41720,True,0.12245508,0.67077637,8000,64000,2,0.44,4.1,1,early,early
+8990,P178,IBM General Parallel File System is developed by, IBM,21314,True,0.1905278,0.45483398,48000,128000,1,0.48,4.3,2,late,late
+9024,P449,NBA on TNT was originally aired on, TNT,308,True,0.06800293,0.012268066,1000,143000,3,0.17,0.5,0,early,early
+9263,P176,"Nokia 808 PureView, developed by", Nokia,41720,True,0.107152835,0.8267822,8000,64000,2,0.52,5.1,0,early,early
+9334,P159,Shanghai Animation Film Studio is based in, Shanghai,23494,True,0.33311933,1.2409668,4000,4000,0,0.59,5.6,3,early,early
+9356,P937,Cosimo de' Medici worked in the city of, Florence,27741,True,0.1511794,1.1918945,8000,143000,2,0.45,4.3,1,early,early
+9359,P276,Nottingham Crown Court is located in, Nottingham,48586,True,0.21741515,0.1329956,128000,128000,0,0.4,2.1,2,late,late
+9382,P27,"Minamoto no Yoshinaka, who is a citizen of", Japan,4047,True,0.492647,0.7069702,16000,96000,1,0.48,4.3,4,early,late
+9417,P103,Anastasia Myskina is a native speaker of, Russian,7247,True,0.1265577,0.32946777,32000,96000,1,0.28,2.4,1,middle,early
+9470,P937,Geert Lovink worked in the city of, Amsterdam,26653,True,0.03417521,0.3287964,96000,128000,1,0.39,3.7,0,late,late
+9553,P159,The headquarters of Green Party of England and Wales is in, London,4693,True,0.13961293,0.10095215,96000,143000,1,0.35,2.7,1,late,late
+9599,P103,Dmitry Pisarev is a native speaker of, Russian,7247,True,0.44649258,1.5449219,16000,80000,1,0.53,5.2,4,early,late
+9651,P159,Royal Society of Edinburgh is headquartered in, Edinburgh,25990,True,0.4585765,1.0083618,4000,4000,0,0.71,7.0,4,early,early
+9666,P103,Sourou-Migan Apithy is a native speaker of, French,5112,True,0.16556905,0.6553955,32000,96000,2,0.49,4.5,1,middle,early
+9701,P178,"Apple A7, a product manufactured by", Apple,8217,True,0.06927005,0.095214844,4000,96000,2,0.36,1.6,0,early,early
+9716,P30,Evans Peninsula belongs to the continent of, Antarctica,31913,True,0.30815223,0.85266113,64000,128000,2,0.45,4.2,3,late,late
+9826,P27,"Shigeki Maruyama, who holds a citizenship from", Japan,4047,True,0.28012985,0.18377686,96000,128000,1,0.28,2.1,3,late,late
+9877,P17,Gmina Pokrzywnica is located in the country of, Poland,16795,True,0.08771016,0.054382324,4000,128000,2,0.4,1.7,0,early,early
+9886,P30,Mawson Glacier is a part of the continent of, Antarctica,31913,True,0.2973293,1.116394,16000,96000,1,0.6,5.9,3,early,early
+9910,P176,"Windows 2000, developed by", Microsoft,9664,True,0.16934909,0.776001,64000,112000,1,0.75,6.7,1,late,late
+9978,P30,Czechoslovakia is a part of the continent of, Europe,3060,True,0.5056298,1.3214111,1000,16000,1,0.69,6.6,4,early,early
+9979,P178,"Google Latitude, developed by", Google,5559,True,0.19420362,0.69970703,32000,128000,2,0.81,7.1,2,middle,late
+10028,P30,Whillans Ice Stream belongs to the continent of, Antarctica,31913,True,0.15119565,0.85931396,64000,96000,1,0.48,4.7,1,late,late
+10053,P30,Mount Mentzel belongs to the continent of, Antarctica,31913,True,0.09775733,0.0178833,96000,128000,1,0.12,0.7,0,late,late
+10069,P159,Shanghai Electric is based in, Shanghai,23494,True,0.1657451,0.16290283,4000,80000,1,0.34,3.3,1,early,early
+10083,P937,Edward Shortt worked in the city of, London,4693,True,0.0756638,0.6660156,16000,112000,1,0.66,5.6,0,early,early
+10095,P103,Pierre Daniel Huet is a native speaker of, French,5112,True,0.22527571,0.37200928,32000,143000,2,0.31,3.1,2,middle,late
+10101,P176,"Honda Civic Hybrid, developed by", Honda,34379,True,0.16106091,0.53240967,64000,64000,0,0.3,2.6,1,late,late
+10133,P103,Marcelle Auclair is a native speaker of, French,5112,True,0.33749455,1.250061,32000,96000,1,0.54,5.0,3,middle,late
+10135,P176,Samsung NX-mount is developed by, Samsung,23061,True,0.3543838,1.1432495,64000,64000,0,0.45,4.2,3,late,late
+10196,P30,Lucy Glacier is a part of the continent of, Antarctica,31913,True,0.24436678,1.359375,64000,64000,0,0.57,5.6,2,late,late
+10263,P30,Gdynia belongs to the continent of, Europe,3060,True,0.2295856,0.83081055,48000,143000,2,0.44,4.2,2,late,late
+10352,P103,Auguste Villiers de l'Isle-Adam is a native speaker of, French,5112,True,0.24903415,0.71881104,64000,96000,1,0.55,5.3,2,late,late
+10450,P103,Jacques Leroy de Saint Arnaud is a native speaker of, French,5112,True,0.44571114,1.8502808,8000,32000,1,0.73,7.1,4,early,early
+10524,P176,"Sony Alpha 900, developed by", Sony,22645,True,0.30567506,1.3892822,32000,32000,0,0.53,5.2,3,middle,late
+10587,P30,Antarctic ice sheet belongs to the continent of, Antarctica,31913,True,0.45081565,1.6599731,16000,64000,1,0.83,7.9,4,early,late
+10615,P103,Antoine Bourdelle is a native speaker of, French,5112,True,0.49339983,1.5648804,8000,8000,0,0.68,6.8,4,early,early
+10669,P30,Tierney Peninsula belongs to the continent of, Antarctica,31913,True,0.1536526,0.7632446,64000,128000,2,0.41,3.7,1,late,late
+10684,P30,Mercator Ice Piedmont belongs to the continent of, Antarctica,31913,True,0.3326367,1.050354,64000,96000,1,0.67,6.3,3,late,late
+10720,P176,"Nokia 3310, produced by", Nokia,41720,True,0.12581788,0.27209473,8000,64000,1,0.16,1.0,1,early,early
+10752,P17,Dziemiany is located in the country of, Poland,16795,True,0.06405835,0.16247559,48000,128000,1,0.34,2.3,0,late,late
+10764,P30,Cugnot Ice Piedmont belongs to the continent of, Antarctica,31913,True,0.25972754,1.8046875,96000,96000,0,0.56,5.6,3,late,late
+10786,P178,"Amazon Fire TV, a product manufactured by", Amazon,10550,True,0.07333385,0.18725586,64000,143000,2,0.46,3.4,0,late,late
+10792,P178,Windows Internet Explorer 8 is developed by, Microsoft,9664,True,0.14205639,0.3013916,64000,143000,1,0.54,4.2,1,late,late
+10832,P30,Debenham Glacier belongs to the continent of, Antarctica,31913,True,0.47025642,1.977478,64000,96000,1,0.63,6.3,4,late,late
+10977,P103,Anne-Marie Idrac is a native speaker of, French,5112,True,0.26052588,1.248169,16000,96000,1,0.56,5.5,3,early,early
+10978,P159,"Lyndon B. Johnson Space Center, whose headquarters are in", Houston,14296,True,0.12714554,0.4996338,64000,128000,1,0.31,3.0,1,late,late
+11047,P103,Firmin Abauzit is a native speaker of, French,5112,True,0.12619041,0.6307373,48000,128000,2,0.42,3.9,1,late,late
+11083,P17,Novokuybyshevsk is located in the country of, Russia,7422,True,0.094077975,0.14227295,80000,112000,1,0.5,2.6,0,late,late
+11123,P103,Tina Turner is a native speaker of, English,4383,True,0.13919586,0.16333008,48000,80000,1,0.43,3.6,1,late,late
+11265,P20,John Pym died in the city of, London,4693,True,0.03751639,0.26379395,112000,112000,0,0.61,5.4,0,late,late
+11304,P103,Henriette-Julie de Murat is a native speaker of, French,5112,True,0.3183619,1.4378662,8000,8000,0,0.56,5.6,3,early,early
+11319,P30,Snakeskin Glacier is a part of the continent of, Antarctica,31913,True,0.17863394,0.24884033,32000,96000,1,0.43,2.5,2,middle,late
+11413,P159,Harvard Medical School is headquartered in, Boston,9693,True,0.19319257,0.7201538,32000,143000,2,0.63,6.1,2,middle,late
+11415,P178,"Windows NT 3.5, developed by", Microsoft,9664,True,0.1658119,0.7963867,48000,48000,0,0.74,6.8,1,late,late
+11426,P178,"Intel iAPX 432, a product created by", Intel,17545,True,0.42871377,1.2697754,32000,64000,1,0.56,5.3,4,middle,late
+11491,P17,Lodhran Tehsil is located in the country of, Pakistan,13115,True,0.11034291,0.765625,96000,96000,0,0.45,4.3,0,late,late
+11516,P159,Common Purpose UK is headquartered in, London,4693,True,0.14947842,0.51190186,4000,96000,1,0.58,4.9,1,early,early
+11555,P30,Rayner Glacier is a part of the continent of, Antarctica,31913,True,0.37979993,2.142395,32000,32000,0,0.6,5.9,4,middle,late
+11588,P27,Rajeev Chandrasekhar is a citizen of, India,5427,True,0.3506646,0.6750488,32000,128000,2,0.52,4.6,3,middle,late
+11590,P178,"Adobe Illustrator, developed by", Adobe,33143,True,0.066239715,0.040161133,64000,143000,1,0.15,1.2,0,late,late
+11598,P30,Western Asia is a part of the continent of, Asia,10497,True,0.42657214,0.6168213,4000,64000,2,0.67,6.3,4,early,early
+11623,P19,Jacques-Jean Barre was born in, Paris,7785,True,0.15264866,1.2677002,8000,8000,0,0.62,5.6,1,early,early
+11660,P495,La Grande Vadrouille was created in the country of, France,6181,True,0.086011045,0.1326294,64000,64000,0,0.49,3.8,0,late,late
+11680,P178,Microsoft FrontPage is developed by, Microsoft,9664,True,0.07793795,0.40924072,64000,143000,1,0.83,7.8,0,late,late
+11730,P937,William Pitt the Younger worked in the city of, London,4693,True,0.20757817,1.4906006,80000,80000,0,0.85,8.1,2,late,late
+11732,P178,Microsoft Internet Explorer 3 is developed by, Microsoft,9664,True,0.21175183,1.0037231,4000,16000,1,0.88,8.6,2,early,early
+11804,P178,Google Chrome was developed by, Google,5559,True,0.1360971,0.55895996,64000,64000,0,0.85,7.9,1,late,late
+11823,P30,Bach Ice Shelf is a part of the continent of, Antarctica,31913,True,0.24448246,1.7717896,16000,96000,1,0.57,5.7,2,early,early
+11829,P30,Venta is a part of the continent of, Europe,3060,True,0.1625651,1.1709595,112000,112000,0,0.52,4.7,1,late,late
+11839,P30,Publications Ice Shelf is a part of the continent of, Antarctica,31913,True,0.20146857,1.2684326,16000,96000,1,0.55,5.4,2,early,early
+11956,P176,"Windows Phone 8.1, created by", Microsoft,9664,True,0.09940894,0.016601562,16000,143000,2,0.29,0.6,0,early,early
+11984,P276,Toronto International Film Festival is in, Toronto,13533,True,0.183861,0.20440674,16000,16000,0,0.33,2.0,2,early,early
+12068,P178,"Windows Phone Store, a product created by", Microsoft,9664,True,0.16866718,0.36535645,64000,143000,1,0.64,4.9,1,late,late
+12213,P103,Silvia Monfort is a native speaker of, French,5112,True,0.14441153,0.13458252,96000,143000,1,0.19,1.3,1,late,late
+12217,P176,Samsung NX series is developed by, Samsung,23061,True,0.2818851,1.1912842,32000,96000,1,0.47,4.3,3,middle,early
+12229,P30,Scott Island belongs to the continent of, Antarctica,31913,True,0.10241907,0.029418945,64000,143000,1,0.18,1.2,0,late,late
+12289,P178,"Intel 80186, a product created by", Intel,17545,True,0.28205547,0.32403564,143000,143000,0,0.31,2.6,3,late,late
+12410,P30,Strom Glacier belongs to the continent of, Antarctica,31913,True,0.23695786,1.2351074,32000,96000,1,0.48,4.7,2,middle,late
+12552,P1303,"Henryk Wieniawski, playing the", violin,36608,True,0.11910266,0.27960205,96000,143000,1,0.35,2.7,1,late,late
+12609,P30,Mertz Glacier belongs to the continent of, Antarctica,31913,True,0.29867265,1.659729,64000,96000,1,0.6,5.8,3,late,late
+12658,P27,"Norimoto Yoda, a citizen of", Japan,4047,True,0.23009762,0.387146,16000,128000,2,0.4,3.8,2,early,early
+12707,P103,Oleg Skripochka is a native speaker of, Russian,7247,True,0.18390824,0.2816162,96000,96000,0,0.39,3.6,2,late,late
+12855,P103,Jean-Claude Brisseau is a native speaker of, French,5112,True,0.5707918,2.2262573,8000,8000,0,0.73,7.3,4,early,early
+12932,P17,"Tsuno District, Yamaguchi is located in the country of", Japan,4047,True,0.16939287,0.80670166,16000,112000,2,0.68,6.4,1,early,early
+13000,P30,Marsh Glacier belongs to the continent of, Antarctica,31913,True,0.3689289,2.0308838,32000,96000,2,0.59,5.5,3,middle,late
+13009,P178,"Google AdSense, a product developed by", Google,5559,True,0.44353914,1.5924072,16000,16000,0,0.95,9.5,4,early,late
+13024,P178,Microsoft SharePoint was developed by, Microsoft,9664,True,0.18544051,1.125061,8000,8000,0,0.92,8.8,2,early,early
+13072,P641,Babe Ruth is a professional, baseball,14623,True,0.052997142,0.50335693,32000,112000,1,0.46,3.7,0,middle,late
+13102,P30,Tapsell Foreland belongs to the continent of, Antarctica,31913,True,0.10018327,0.10247803,96000,128000,1,0.13,1.2,0,late,late
+13116,P937,Nigel Nicolson worked in the city of, London,4693,True,0.055166062,0.6873779,16000,16000,0,0.63,6.1,0,early,early
+13118,P103,Florent Chrestien is a native speaker of, French,5112,True,0.39861155,1.4710083,32000,32000,0,0.71,7.1,4,middle,late
+13205,P131,"Istanbul Technical University, in", Istanbul,41460,True,0.17873493,0.6305542,8000,48000,1,0.53,4.7,2,early,early
+13213,P641,Kevin Garnett is a professional, basketball,14648,True,0.0459444,0.4185791,16000,96000,2,0.46,4.1,0,early,early
+13252,P30,Umber Island belongs to the continent of, Antarctica,31913,True,0.17399268,1.0838623,128000,128000,0,0.47,4.4,1,late,late
+13327,P103,Yevgeny Yevtushenko is a native speaker of, Russian,7247,True,0.41477823,0.8964844,32000,64000,1,0.66,6.2,4,middle,late
+13342,P495,Apur Panchali was created in the country of, India,5427,True,0.11739397,0.8364258,80000,112000,1,0.66,5.7,1,late,late
+13443,P30,Tarnovo Ice Piedmont is a part of the continent of, Antarctica,31913,True,0.25406504,1.0187988,143000,143000,0,0.61,5.7,3,late,late
+13484,P30,Riiser-Larsen Ice Shelf belongs to the continent of, Antarctica,31913,True,0.20142925,1.3043823,64000,96000,1,0.56,5.3,2,late,late
+13493,P178,Microsoft Internet Explorer 4 is developed by, Microsoft,9664,True,0.22490516,1.0170898,4000,16000,1,0.88,8.6,2,early,early
+13516,P178,"Windows NT 4.0, a product created by", Microsoft,9664,True,0.2579379,0.7390747,4000,64000,1,0.78,7.7,3,early,early
+13529,P937,"Walter Runciman, 1st Viscount Runciman of Doxford worked in the city of", London,4693,True,0.13967672,0.8295288,128000,128000,0,0.78,7.2,1,late,late
+13551,P30,North Macedonia is a part of the continent of, Europe,3060,True,0.5767779,1.1322632,48000,112000,1,0.41,3.8,4,late,late
+13553,P19,Paul Epworth was born in, London,4693,True,0.054349974,0.27301025,112000,143000,1,0.26,1.7,0,late,late
+13569,P641,Jack Kemp is a professional, football,5842,True,0.04196545,0.40808105,8000,143000,3,0.41,3.7,0,early,early
+13592,P30,Yoruba religion is a part of the continent of, Africa,7531,True,0.39663693,0.89416504,4000,96000,2,0.57,5.5,4,early,early
+13623,P178,"Google Maps, a product developed by", Google,5559,True,0.396735,1.2839355,16000,16000,0,0.94,9.4,4,early,late
+13671,P30,Lake Vanda belongs to the continent of, Antarctica,31913,True,0.08412071,0.3314209,96000,128000,1,0.27,1.9,0,late,late
+13679,P178,Intel i960 is developed by, Intel,17545,True,0.2381543,0.51745605,32000,128000,2,0.41,3.9,2,middle,early
+13790,P937,"Peter Walker, Baron Walker of Worcester worked in the city of", London,4693,True,0.11962588,0.38671875,80000,143000,1,0.74,5.6,1,late,late
+13814,P103,Robert Jan van Pelt is a native speaker of, Dutch,13986,True,0.29423687,0.701416,16000,143000,1,0.46,4.3,3,early,early
+13841,P937,"Henry Somerset, 7th Duke of Beaufort worked in the city of", London,4693,True,0.17490302,1.3704834,48000,48000,0,0.94,9.4,1,late,late
+13878,P178,"Microsoft Access, a product manufactured by", Microsoft,9664,True,0.21087773,1.2560425,4000,96000,3,0.84,8.2,2,early,early
+13923,P178,Microsoft OneNote is developed by, Microsoft,9664,True,0.12500326,0.6278076,32000,143000,2,0.81,7.5,1,middle,early
+13935,P103,Jean-Pierre Marielle is a native speaker of, French,5112,True,0.58716273,2.2766724,8000,8000,0,0.75,7.5,4,early,early
+13943,P159,Beijing Guoan F.C. is headquartered in, Beijing,18496,True,0.30334094,1.1119385,4000,4000,0,0.72,6.0,3,early,early
+13944,P27,Ahmad Nadeem Qasmi is a citizen of, Pakistan,13115,True,0.13553524,0.043518066,143000,143000,0,0.11,1.0,1,late,late
+14016,P19,India Hicks was born in, London,4693,True,0.03200538,0.15020752,143000,143000,0,0.22,1.5,0,late,late
+14084,P30,Kaliakra Glacier is a part of the continent of, Antarctica,31913,True,0.18502462,0.61242676,32000,96000,2,0.47,3.9,2,middle,late
+14114,P20,Pierre Beauchamp died in the city of, Paris,7785,True,0.058424458,0.07373047,4000,4000,0,0.43,2.8,0,early,early
+14131,P103,Bernard Blancan is a native speaker of, French,5112,True,0.42084354,1.6265259,32000,32000,0,0.6,5.9,4,middle,late
+14236,P178,"Adobe FrameMaker, a product developed by", Adobe,33143,True,0.29559332,1.2840576,16000,16000,0,0.5,4.9,3,early,early
+14294,P30,Slovenia belongs to the continent of, Europe,3060,True,0.7234628,2.5142822,16000,48000,1,0.73,7.1,4,early,late
+14390,P30,Terra Nova Bay is a part of the continent of, Antarctica,31913,True,0.11901876,0.5562744,64000,96000,1,0.39,3.6,1,late,late
+14519,P103,Alain Delon is a native speaker of, French,5112,True,0.2501918,0.60235596,32000,96000,1,0.39,3.8,3,middle,early
+14567,P30,Mount Cameroon belongs to the continent of, Africa,7531,True,0.31968117,1.1108398,16000,143000,3,0.58,5.7,3,early,early
+14617,P103,Jenson Button is a native speaker of, English,4383,True,0.27533185,0.899292,16000,64000,1,0.69,6.7,3,early,early
+14639,P1303,"Beck, playing the", guitar,12609,True,0.047556933,0.12207031,80000,143000,1,0.24,2.1,0,late,late
+14645,P495,Khuda Kay Liye was created in the country of, Pakistan,13115,True,0.06892398,0.8347168,96000,96000,0,0.39,3.4,0,late,late
+14705,P178,"Google Groups, a product created by", Google,5559,True,0.2322502,0.5778198,16000,128000,1,0.81,7.3,2,early,early
+14846,P176,"Honda RS125R, developed by", Honda,34379,True,0.12381832,0.16607666,64000,143000,2,0.15,0.6,1,late,late
+14877,P178,"Adobe Acrobat, a product created by", Adobe,33143,True,0.48789778,1.8945312,16000,64000,1,0.58,5.6,4,early,late
+14885,P131,"Chennai Mathematical Institute, in", Chennai,14867,True,0.28548753,0.90063477,16000,143000,2,0.54,4.6,3,early,early
+14904,P937,"Walter Long, 1st Viscount Long worked in the city of", London,4693,True,0.09182963,0.94281006,8000,128000,2,0.78,7.2,0,early,early
+14949,P103,Francis Ponge is a native speaker of, French,5112,True,0.18619093,0.12817383,96000,96000,0,0.39,3.2,2,late,late
+14950,P178,Apple Watch was developed by, Apple,8217,True,0.11013873,0.59558105,64000,96000,1,0.71,6.0,0,late,late
+15012,P30,Middle East belongs to the continent of, Africa,7531,True,0.2839167,0.8392334,4000,112000,1,0.55,5.5,3,early,early
+15030,P20,"Quintin Hogg, Baron Hailsham of St Marylebone died in the city of", London,4693,True,0.46685255,2.135437,8000,8000,0,0.87,8.6,4,early,early
+15090,P178,Adobe Media Player is developed by, Adobe,33143,True,0.14395335,1.1025391,16000,143000,1,0.45,4.5,1,early,early
+15094,P103,Bernard Tapie is a native speaker of, French,5112,True,0.14830118,0.03161621,32000,143000,2,0.19,1.0,1,middle,early
+15098,P937,Jean Tinguely worked in the city of, Paris,7785,True,0.035530634,0.29040527,4000,128000,1,0.37,2.9,0,early,early
+15153,P159,"Manchester Business School, whose headquarters are in", Manchester,17427,True,0.2445923,0.61450195,8000,8000,0,0.65,5.7,2,early,early
+15165,P30,Morocco belongs to the continent of, Africa,7531,True,0.38881576,1.4387207,4000,16000,1,0.6,5.9,4,early,early
+15251,P178,Windows Server 2012 was developed by, Microsoft,9664,True,0.09761703,0.0647583,8000,143000,2,0.49,2.1,0,early,early
+15359,P27,"Giovanni Ferrari, a citizen of", Italy,9972,True,0.25291333,0.16699219,8000,128000,2,0.46,3.4,3,early,early
+15427,P178,Adobe Photoshop Lightroom is a product of, Adobe,33143,True,0.32957458,0.6217041,16000,143000,1,0.3,2.6,3,early,early
+15471,P30,Beaumont Glacier belongs to the continent of, Antarctica,31913,True,0.38616884,1.8005981,64000,96000,1,0.63,6.1,4,late,late
+15476,P159,Tokyo Actor's Consumer's Cooperative Society is headquartered in, Tokyo,17413,True,0.32659823,1.2670898,16000,16000,0,0.73,7.2,3,early,early
+15485,P30,Orange Free State is a part of the continent of, Africa,7531,True,0.15518641,0.22491455,4000,96000,2,0.22,1.2,1,early,early
+15524,P103,Raymond Queneau is a native speaker of, French,5112,True,0.16455811,0.051086426,32000,96000,1,0.22,1.7,1,middle,early
+15526,P159,"Czech National Bank, whose headquarters are in", Prague,41577,True,0.21720625,0.77368164,8000,8000,0,0.59,5.9,2,early,early
+15581,P37,The official language of Netherlands is, Dutch,13986,True,0.16498747,0.1038208,32000,128000,2,0.24,1.5,1,middle,early
+15599,P30,Comoros belongs to the continent of, Africa,7531,True,0.1397867,0.4088745,112000,143000,1,0.38,3.7,1,late,late
+15631,P36,"Grand Duchy of Finland's capital city,", Helsinki,34159,True,0.1830604,0.70788574,8000,96000,2,0.51,4.9,2,early,early
+15699,P140,Muhammad Zakariya Kandhalawi follows the religion of, Islam,8033,True,0.23580356,0.15930176,8000,128000,2,0.41,3.2,2,early,early
+15717,P30,Portugal belongs to the continent of, Europe,3060,True,0.5379293,1.848999,4000,16000,1,0.79,7.9,4,early,early
+15846,P178,Microsoft Office 97 was developed by, Microsoft,9664,True,0.27560923,1.4014282,32000,64000,1,0.88,8.2,3,middle,late
+15919,P27,Koichi Kobayashi is a citizen of, Japan,4047,True,0.29981536,0.16534424,16000,128000,1,0.32,2.6,3,early,early
+15958,P178,"Microsoft Robotics Developer Studio, created by", Microsoft,9664,True,0.050244,0.1618042,64000,143000,1,0.4,1.3,0,late,late
+15960,P103,Jean Sorel is a native speaker of, French,5112,True,0.36576214,1.2796631,32000,96000,1,0.64,6.2,3,middle,late
+16047,P127,Google Marketing Platform is owned by, Google,5559,True,0.23787762,1.1430054,32000,32000,0,0.92,8.8,2,middle,late
+16138,P178,"Microsoft Office 2000, a product developed by", Microsoft,9664,True,0.53398216,2.064392,16000,16000,0,0.96,9.6,4,early,late
+16165,P30,KU Leuven belongs to the continent of, Europe,3060,True,0.29557875,1.3678589,48000,143000,2,0.49,4.8,3,late,late
+16182,P178,"IBM System i, a product created by", IBM,21314,True,0.1883555,0.17102051,128000,128000,0,0.41,3.0,2,late,late
+16285,P30,Bosnia and Herzegovina is a part of the continent of, Europe,3060,True,0.37109864,0.6746826,8000,96000,2,0.68,6.5,4,early,early
+16301,P30,Sobat River belongs to the continent of, Africa,7531,True,0.18839367,0.84350586,16000,143000,2,0.47,4.7,2,early,early
+16333,P178,"Apple Pay, a product manufactured by", Apple,8217,True,0.10491562,0.3927002,4000,96000,1,0.69,5.9,0,early,early
+16407,P178,Intel i860 was developed by, Intel,17545,True,0.25243986,0.7515869,64000,128000,1,0.44,4.1,3,late,late
+16413,P27,"Johan Karlsson, a citizen of", Sweden,16842,True,0.18196294,0.14312744,16000,128000,1,0.33,2.8,2,early,early
+16485,P178,"Google Cloud Platform, created by", Google,5559,True,0.112045765,0.60736084,16000,16000,0,0.89,7.9,1,early,early
+16545,P178,Windows 2000 was developed by, Microsoft,9664,True,0.18252163,0.8323364,64000,128000,2,0.75,6.8,2,late,late
+16589,P30,Marinid dynasty is a part of the continent of, Africa,7531,True,0.22621864,0.22814941,16000,96000,2,0.37,2.8,2,early,early
+16591,P27,"Harashima, who is a citizen of", Japan,4047,True,0.2081179,0.0126953125,16000,128000,1,0.12,0.6,2,early,early
+16596,P17,"Croom, County Limerick is located in the country of", Ireland,11011,True,0.42406592,1.4291992,16000,80000,1,0.53,5.0,4,early,late
+16777,P937,Fritz Graebner worked in the city of, Berlin,12911,True,0.022652252,0.13006592,143000,143000,0,0.22,1.4,0,late,late
+16781,P30,Paris is a part of the continent of, Europe,3060,True,0.28151873,1.2388916,8000,80000,2,0.62,5.8,3,early,early
+16806,P30,Sjogren Glacier is a part of the continent of, Antarctica,31913,True,0.23666944,1.1555176,16000,16000,0,0.6,5.7,2,early,early
+16810,P178,Intel Threading Building Blocks is developed by, Intel,17545,True,0.25911027,0.81481934,64000,128000,1,0.46,4.3,3,late,late
+16888,P127,Yahoo! Tech is owned by, Yahoo,31230,True,0.1818941,0.67456055,32000,64000,1,0.49,4.4,2,middle,late
+16947,P178,"Google Play, a product created by", Google,5559,True,0.3717156,1.3552246,16000,64000,1,0.92,9.0,4,early,late
+16950,P103,Henri Barbusse is a native speaker of, French,5112,True,0.23163219,0.49047852,32000,96000,2,0.4,4.0,2,middle,late
+16961,P159,Sydney Olympic FC is based in, Sydney,17361,True,0.44576192,1.4012451,8000,96000,2,0.6,5.9,4,early,early
+16998,P30,Estonia is a part of the continent of, Europe,3060,True,0.7462102,3.0858154,8000,80000,2,0.77,7.5,4,early,early
+17001,P178,"Microsoft Dynamics NAV, a product manufactured by", Microsoft,9664,True,0.46530724,2.6600342,4000,4000,0,0.94,9.3,4,early,early
+17108,P178,"Intel 8086, a product manufactured by", Intel,17545,True,0.51683885,1.6622314,16000,16000,0,0.62,5.9,4,early,late
+17130,P937,Nicholas Fairbairn worked in the city of, London,4693,True,0.067069925,0.41210938,128000,128000,0,0.56,4.8,0,late,late
+17147,P27,"Bhaktisiddhanta Saraswati, who is a citizen of", India,5427,True,0.24916609,0.09942627,48000,143000,2,0.23,1.5,2,late,late
+17180,P30,Mali belongs to the continent of, Africa,7531,True,0.30623525,1.0568848,4000,96000,2,0.54,5.4,3,early,early
+17185,P30,Rutford Ice Stream is a part of the continent of, Antarctica,31913,True,0.21957636,0.84906006,16000,96000,1,0.52,5.0,2,early,early
+17213,P37,"In Poland, an official language is", Polish,19701,True,0.11706356,0.5293579,32000,128000,2,0.42,3.5,1,middle,early
+17216,P101,hunting dog specializes in, hunting,16121,True,0.0590051,0.09387207,32000,143000,2,0.33,1.7,0,middle,early
+17258,P103,Arthur Dupont is a native speaker of, French,5112,True,0.30767146,0.7314453,32000,143000,2,0.43,4.2,3,middle,late
+17278,P159,Cleveland City Stars is headquartered in, Cleveland,19802,True,0.22283418,0.9765625,4000,64000,1,0.59,5.4,2,early,early
+17331,P36,"Kingdom of Afghanistan's capital city,", Kabul,611,True,0.09583924,0.18054199,8000,8000,0,0.34,2.7,0,early,early
+17361,P159,The headquarters of Progressive Conservative Association of Alberta is in, Edmonton,45053,True,0.17697008,0.5687866,16000,143000,1,0.46,3.9,2,early,early
+17395,P178,"Microsoft Exchange Server, a product manufactured by", Microsoft,9664,True,0.5161584,2.8620605,4000,4000,0,0.97,9.7,4,early,early
+17402,P30,Urdoviza Glacier is a part of the continent of, Antarctica,31913,True,0.3372132,1.5336914,32000,64000,1,0.61,6.0,3,middle,early
+17435,P27,"Yoshitsugu Matsuoka, who has a citizenship from", Japan,4047,True,0.32180068,0.46594238,32000,128000,2,0.34,3.2,3,middle,late
+17442,P103,Jacques Sadoul is a native speaker of, French,5112,True,0.51125205,2.3131104,8000,32000,1,0.8,8.0,4,early,early
+17485,P103,Louis-Paul Aujoulat is a native speaker of, French,5112,True,0.29199198,1.3203735,32000,32000,0,0.74,7.2,3,middle,late
+17494,P30,Victoria Upper Glacier is a part of the continent of, Antarctica,31913,True,0.30071348,1.4616089,16000,16000,0,0.54,5.2,3,early,early
+17608,P495,The Birth of Japan was created in the country of, Japan,4047,True,0.36566487,1.9694214,16000,16000,0,0.72,7.2,3,early,early
+17716,P641,Dwyane Wade is a professional, basketball,14648,True,0.07491115,0.15704346,32000,32000,0,0.48,3.8,0,middle,late
+17747,P176,"Honda VFR1200F, developed by", Honda,34379,True,0.12690164,0.26635742,64000,143000,2,0.24,1.8,1,late,late
+17794,P17,"The Forks, Winnipeg is located in the country of", Canada,6144,True,0.24722391,0.93865967,32000,112000,1,0.55,5.4,2,middle,late
+17806,P37,The official language of France is, French,5112,True,0.16121797,0.0065307617,32000,143000,2,0.25,1.5,1,middle,early
+17827,P30,Jorum Glacier belongs to the continent of, Antarctica,31913,True,0.10501669,0.018981934,96000,143000,1,0.13,1.0,0,late,late
+17945,P30,Congo Free State is a part of the continent of, Africa,7531,True,0.639005,2.0632324,4000,48000,1,0.64,5.9,4,early,early
+18009,P30,Antarctic Plate is a part of the continent of, Antarctica,31913,True,0.3939595,1.3515625,16000,16000,0,0.74,7.3,4,early,late
+18011,P30,Wright Lower Glacier is a part of the continent of, Antarctica,31913,True,0.2181378,0.8335571,16000,96000,1,0.53,4.9,2,early,early
+18037,P103,Zachary Taylor is a native speaker of, English,4383,True,0.15823501,0.28112793,16000,16000,0,0.51,4.2,1,early,early
+18040,P27,"Kosuke Matsuura, a citizen of", Japan,4047,True,0.37927797,0.7907715,16000,128000,2,0.59,5.9,4,early,late
+18067,P27,"Kiichi Miyazawa, who has a citizenship from", Japan,4047,True,0.28503212,0.38293457,8000,96000,2,0.29,2.1,3,early,early
+18164,P20,Jean Gallon died in the city of, Paris,7785,True,0.08395277,1.1740723,4000,48000,1,0.77,7.5,0,early,early
+18200,P178,Microsoft Office is created by, Microsoft,9664,True,0.25253072,0.7094116,32000,128000,1,0.7,6.3,3,middle,early
+18242,P30,Central African Republic is a part of the continent of, Africa,7531,True,0.490303,1.2738037,4000,112000,2,0.58,5.4,4,early,early
+18263,P178,"Microsoft Excel, a product developed by", Microsoft,9664,True,0.4308096,1.9265747,4000,16000,1,0.99,9.9,4,early,early
+18264,P159,University of Cambridge is based in, Cambridge,11988,True,0.26264745,0.30969238,8000,96000,2,0.5,4.2,3,early,early
+18292,P937,Pavlo Skoropadskyi worked in the city of, Kiev,611,True,0.042929035,0.36090088,4000,96000,1,0.56,4.7,0,early,early
+18294,P1303,"Joe Pass, playing the", guitar,12609,True,0.050356336,0.4491577,80000,80000,0,0.21,2.0,0,late,late
+18371,P103,Dominique Pinon is a native speaker of, French,5112,True,0.26518402,0.8480835,32000,32000,0,0.51,4.9,3,middle,late
+18386,P178,Microsoft PowerPoint is developed by, Microsoft,9664,True,0.25007397,1.5914917,48000,48000,0,0.92,8.9,3,late,late
+18462,P103,Michel Sardou is a native speaker of, French,5112,True,0.3865817,1.5733032,8000,32000,1,0.74,7.3,4,early,early
+18487,P19,Peter Mark Roget was born in, London,4693,True,0.06847014,0.62664795,96000,143000,1,0.42,4.1,0,late,late
+18502,P937,Jean-Charles Pichegru worked in the city of, Paris,7785,True,0.06675173,0.857666,4000,4000,0,0.79,7.5,0,early,early
+18623,P17,Mannheim City Airport is located in the country of, Germany,6176,True,0.07034768,0.46496582,48000,48000,0,0.65,6.3,0,late,late
+18672,P127,Google Labs is owned by, Google,5559,True,0.14736298,0.1560669,16000,128000,3,0.66,5.6,1,early,early
+18734,P30,Southern Netherlands belongs to the continent of, Europe,3060,True,0.33972573,0.99609375,16000,96000,2,0.47,4.6,3,early,early
+18737,P30,Kouilou-Niari River is a part of the continent of, Africa,7531,True,0.2603971,0.8833008,8000,48000,1,0.53,4.8,3,early,early
+18812,P20,Guichard Joseph Duverney died in the city of, Paris,7785,True,0.071932144,1.02771,48000,48000,0,0.68,6.7,0,late,late
+18902,P159,"Colefax Group, whose headquarters are in", London,4693,True,0.11205717,0.3118286,96000,143000,1,0.4,3.6,1,late,late
+18973,P103,Jean Rouch is a native speaker of, French,5112,True,0.36099657,1.090271,32000,96000,1,0.55,5.3,3,middle,late
+18976,P937,"George Glyn, 1st Baron Wolverton worked in the city of", London,4693,True,0.13966395,1.4901123,32000,32000,0,0.84,8.0,1,middle,early
+18994,P103,Sergey Aksyonov is a native speaker of, Russian,7247,True,0.437543,1.2595825,8000,32000,1,0.66,6.2,4,early,late
+19026,P140,Khan Abdul Ghaffar Khan follows the religion of, Islam,8033,True,0.23085049,0.14337158,32000,32000,0,0.37,2.5,2,middle,late
+19068,P30,Pernik Peninsula belongs to the continent of, Antarctica,31913,True,0.28863814,1.3994751,96000,96000,0,0.54,5.2,3,late,late
+19085,P178,Google Ads was developed by, Google,5559,True,0.10821046,0.13964844,64000,128000,2,0.5,3.8,0,late,late
+19178,P178,Microsoft SQL Server is developed by, Microsoft,9664,True,0.25896114,0.98358154,4000,4000,0,0.94,9.4,3,early,early
+19246,P178,"Adobe Flash Builder, a product created by", Adobe,33143,True,0.46949047,1.989624,8000,8000,0,0.64,6.3,4,early,early
+19256,P103,Octave Uzanne is a native speaker of, French,5112,True,0.30326065,0.85546875,8000,96000,2,0.47,4.7,3,early,early
+19268,P937,Dominique Joseph Garat worked in the city of, Paris,7785,True,0.03912597,0.0012817383,4000,143000,1,0.33,2.6,0,early,early
+19274,P17,Ghatanji is located in the country of, India,5427,True,0.13968699,0.7142334,112000,112000,0,0.68,6.8,1,late,late
+19286,P30,Imperial Trans-Antarctic Expedition belongs to the continent of, Antarctica,31913,True,0.36911997,1.9008789,64000,64000,0,0.67,6.5,3,late,late
+19362,P178,"Adobe Connect, a product developed by", Adobe,33143,True,0.20791985,0.71099854,16000,128000,3,0.38,3.2,2,early,early
+19375,P30,Splettstoesser Glacier is a part of the continent of, Antarctica,31913,True,0.27835137,1.4103394,32000,32000,0,0.63,6.3,3,middle,late
+19516,P178,"Adobe Captivate, a product developed by", Adobe,33143,True,0.27103037,0.92144775,64000,143000,1,0.45,4.2,3,late,late
+19525,P103,Joseph Paul-Boncour is a native speaker of, French,5112,True,0.3808958,1.1080322,16000,16000,0,0.53,5.2,4,early,late
+19610,P103,"Victor de Riqueti, marquis de Mirabeau is a native speaker of", French,5112,True,0.27713457,0.63604736,8000,32000,1,0.54,5.1,3,early,early
+19640,P127,Google Trends is owned by, Google,5559,True,0.1774655,0.17596436,16000,128000,2,0.71,3.9,2,early,early
+19700,P641,Roman Reigns is a professional, football,5842,True,0.080983214,0.99957275,32000,32000,0,0.44,4.4,0,middle,late
+19791,P178,"Microsoft Office 2007, a product developed by", Microsoft,9664,True,0.49185732,1.9914551,16000,16000,0,0.93,9.3,4,early,late
+19801,P30,Senegambia Confederation is a part of the continent of, Africa,7531,True,0.53914374,1.4055786,4000,48000,2,0.51,4.4,4,early,early
+19846,P30,Finland belongs to the continent of, Europe,3060,True,0.5284996,1.9230347,16000,16000,0,0.73,7.3,4,early,late
+19928,P27,"Konosuke Matsushita, who holds a citizenship from", Japan,4047,True,0.38353285,0.6343994,32000,96000,1,0.39,3.3,4,middle,late
+20068,P30,Howchin Glacier belongs to the continent of, Antarctica,31913,True,0.18181282,0.71087646,32000,96000,2,0.44,4.1,2,middle,early
+20101,P30,Slovakia is a part of the continent of, Europe,3060,True,0.5680527,2.531128,1000,48000,2,0.73,7.3,4,early,early
+20128,P176,"Windows Phone 7, developed by", Microsoft,9664,True,0.12329824,0.42529297,48000,128000,1,0.6,5.0,1,late,late
+20212,P30,French Southern and Antarctic Lands is a part of the continent of, Antarctica,31913,True,0.42889753,0.7733154,64000,96000,1,0.35,3.0,4,late,late
+20229,P178,Microsoft Windows was developed by, Microsoft,9664,True,0.3702423,2.1693115,4000,64000,1,0.92,8.9,4,early,early
+20235,P19,Tomomi Kasai was born in, Tokyo,17413,True,0.062105566,0.26049805,64000,128000,2,0.32,2.8,0,late,late
+20261,P103,Alfonso V of Aragon is a native speaker of, Spanish,9883,True,0.44893274,1.2302246,48000,48000,0,0.74,7.4,4,late,late
+20307,P103,Nikolay Nekrasov is a native speaker of, Russian,7247,True,0.56045824,2.1189575,8000,32000,1,0.73,7.0,4,early,early
+20427,P176,Microsoft Band is produced by, Microsoft,9664,True,0.089728884,0.2786255,143000,143000,0,0.59,3.9,0,late,late
+20449,P178,"Yahoo! Messenger, a product created by", Yahoo,31230,True,0.19831091,0.46569824,32000,64000,1,0.45,3.8,2,middle,late
+20541,P103,Kozma Prutkov is a native speaker of, Russian,7247,True,0.38602626,1.8831177,32000,80000,1,0.71,6.9,4,middle,late
+20544,P103,"Joseph-Marie, comte Portalis is a native speaker of", French,5112,True,0.3300014,1.3473511,16000,16000,0,0.71,6.9,3,early,early
+20637,P30,Mitchell Peninsula is a part of the continent of, Antarctica,31913,True,0.26660648,0.9194336,64000,128000,2,0.51,4.7,3,late,late
+20802,P937,Pierre Augereau worked in the city of, Paris,7785,True,0.09314143,1.2091675,4000,96000,2,0.82,7.6,0,early,early
+20843,P30,Brunt Ice Shelf is a part of the continent of, Antarctica,31913,True,0.30489403,1.5281982,16000,96000,2,0.62,6.0,3,early,early
+20867,P178,"Adobe Fireworks, a product manufactured by", Adobe,33143,True,0.23901083,1.2922974,16000,64000,1,0.48,4.6,2,early,early
+20934,P449,SEC on CBS premieres on, CBS,21946,True,0.068063706,0.3605957,1000,128000,4,0.36,1.8,0,early,early
+20949,P27,"Ravi Shankar, who has a citizenship from", India,5427,True,0.27788258,0.42175293,32000,128000,2,0.38,3.5,3,middle,late
+20974,P103,Marie-Anne Chazel is a native speaker of, French,5112,True,0.26057547,1.315918,48000,48000,0,0.46,4.5,3,late,late
+20986,P178,Microsoft Digital Video Recording was developed by, Microsoft,9664,True,0.047410745,0.13555908,143000,143000,0,0.64,3.6,0,late,late
+21049,P19,Mizuki Fukumura was born in, Tokyo,17413,True,0.11498757,1.1030273,32000,32000,0,0.47,4.3,1,middle,early
+21067,P27,"Hiro Matsushita, who has a citizenship from", Japan,4047,True,0.32744282,0.5609131,32000,128000,2,0.3,2.7,3,middle,late
+21074,P641,Stephen Curry is a professional, basketball,14648,True,0.13478059,1.3842163,2000,112000,2,0.61,6.0,1,early,early
+21110,P159,Sydney Theatre Company's headquarters are in, Sydney,17361,True,0.23045981,0.27062988,96000,128000,1,0.24,2.3,2,late,late
+21131,P30,Shebelle River is a part of the continent of, Africa,7531,True,0.11951619,0.29437256,4000,48000,1,0.27,2.5,1,early,early
+21143,P937,Adrien Albert Marie de Mun worked in the city of, Paris,7785,True,0.058311418,0.90197754,8000,32000,1,0.69,6.0,0,early,early
+21195,P103,Pierre Louis Prieur is a native speaker of, French,5112,True,0.4067097,1.140625,16000,16000,0,0.48,4.7,4,early,late
+21213,P178,"Microsoft Office 2003, a product created by", Microsoft,9664,True,0.5610217,2.1185913,16000,16000,0,0.92,9.2,4,early,late
+21333,P36,"People's Republic of China's capital city,", Beijing,18496,True,0.050506324,0.26245117,16000,16000,0,0.38,3.1,0,early,early
+21380,P103,Michel Saint-Denis is a native speaker of, French,5112,True,0.25229707,0.8880615,32000,64000,1,0.52,5.2,3,middle,early
+21612,P178,Adobe Flash Player was created by, Adobe,33143,True,0.14257446,0.57336426,32000,128000,1,0.37,3.0,1,middle,late
+21625,P178,"Google Desktop, a product created by", Google,5559,True,0.2243547,0.7055664,16000,64000,1,0.91,8.5,2,early,early
+21749,P103,Jean-Paul Belmondo is a native speaker of, French,5112,True,0.22851793,0.89520264,32000,32000,0,0.58,5.6,2,middle,late
+21752,P103,Pierre Fresnay is a native speaker of, French,5112,True,0.2456031,0.035217285,32000,143000,2,0.12,1.0,2,middle,early
+21760,P178,Microsoft Windows SDK was created by, Microsoft,9664,True,0.22881983,0.8553467,2000,128000,1,0.84,8.4,2,early,early
+21838,P103,Henry de Montherlant is a native speaker of, French,5112,True,0.28156948,0.5780029,48000,143000,1,0.47,4.3,3,late,late
+21853,P159,Baltimore Gas and Electric is headquartered in, Baltimore,19585,True,0.21061774,0.618042,8000,96000,1,0.51,3.9,2,early,early

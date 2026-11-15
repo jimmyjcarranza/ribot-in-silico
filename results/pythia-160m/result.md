@@ -1,0 +1,10 @@
+- Model: EleutherAI/pythia-160m. Facts in the exam: 21913. Known by the final model: 492 (2.2%).
+- Snapshots used to date each fact: 15. Facts lost and learned again at least once during training: 69%.
+- Damage: 10 nested levels from 0.5% to 30% of 36864 MLP neurons, 10 random draws.
+- Age vs resistance (Spearman): rho = -0.299, 95% CI [-0.382, -0.207], p = 1.2e-11.
+- Controlled for confidence (partial Spearman): rho = -0.229, p = 0.0002.
+- Controlled for confidence and margin: rho = -0.152, p = 0.0004.
+- Same, with at most 10 facts per answer (n = 265): rho = -0.090, p = 0.14.
+- Confidence-matched gap in resistance, early minus late: +0.055, p = 0.001.
+- The confound: age vs confidence rho = -0.234; confidence vs resistance rho = +0.408; margin vs resistance rho = +0.714.
+- Facts learned earlier survive more damage, and the effect remains after controlling for confidence and margin. It is small and it does not hold in every robustness check (not significant with: at most 10 facts per answer). The evidence for a Ribot-like gradient in this model is weak.
