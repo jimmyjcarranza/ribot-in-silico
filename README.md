@@ -32,6 +32,11 @@ A negative rho means that facts learned earlier resist more. Margin alone predic
 
 *Figure 2. The same comparison between early and late facts matched on confidence. The gap is smaller and still present.*
 
+## Write-ups
+
+- [Paper-style report (PDF)](Ribot%20in%20Silico%20-%20Paper.pdf)
+- [Plain-language explainer (PDF)](Ribot%20in%20Silico%20-%20Explained.pdf)
+
 ## Method
 
 The experiment uses [Pythia-160M](https://huggingface.co/EleutherAI/pythia-160m), a 12-layer language model released by EleutherAI together with 154 snapshots saved during its training. Those snapshots make it possible to tell when the model learned each fact.
